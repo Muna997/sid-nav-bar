@@ -1,2 +1,2 @@
-# sid-nav-bar
+# side-nav-bar
 responsive side navigation bar
